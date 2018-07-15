@@ -12,6 +12,10 @@ import com.screen.density.utils.Density;
 
 import butterknife.ButterKnife;
 
+/**
+ * Created by Raul_lsj on 2018/3/9.
+ */
+
 public abstract class BaseActivity extends AppCompatActivity {
 
     protected Context mContext;

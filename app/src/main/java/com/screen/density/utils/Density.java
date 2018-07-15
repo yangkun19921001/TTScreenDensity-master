@@ -11,6 +11,12 @@ import android.util.DisplayMetrics;
 
 import com.screen.density.HeightActivity;
 
+/**
+ * 通过修改系统参数来适配android设备
+ * https://www.jianshu.com/p/4254ea9d1b27
+ * <p>
+ * Created by Raul_lsj on 2018/6/6.
+ */
 
 public class Density {
 
