@@ -9,6 +9,6 @@ public class WidthActivity extends BaseActivity {
 
     @Override
     protected void initEvent() {
-
+    
     }
 }
