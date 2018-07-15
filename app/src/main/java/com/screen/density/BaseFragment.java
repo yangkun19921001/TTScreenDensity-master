@@ -15,9 +15,6 @@ import android.widget.Toast;
 import butterknife.ButterKnife;
 import butterknife.Unbinder;
 
-/**
- * Created by Raul_lsj on 2018/3/9.
- */
 
 public abstract class BaseFragment extends Fragment {
 
